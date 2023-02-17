@@ -33,6 +33,7 @@ INSTALLED_APPS = [
     "django.contrib.messages",
     "django.contrib.staticfiles",
     # APPS
+    "company.apps.CompanyConfig",
     "feedback.apps.FeedbackConfig",
     "news.apps.NewsConfig",
     # REST
